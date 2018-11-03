@@ -1,0 +1,9 @@
+effect @a[score_meth_min=1000] speed 2 2 true
+effect @a[score_meth_min=1000] jump_boost 2 1 true
+effect @a[score_meth_min=1000] strength 2 1 true
+effect @a[score_meth_min=1000] night_vision 2 1 true
+scoreboard players remove @a[score_meth_min=1] meth 1
+effect @a[score_meth_min=1,score_meth=1000] weakness 2 1 true
+effect @a[score_meth_min=1,score_meth=1000] slowness 2 1 true
+effect @a[score_meth_min=1,score_meth=1000] poison 2 0 true
+effect @a[score_meth_min=1,score_meth=1000] regeneration 2 2 true
