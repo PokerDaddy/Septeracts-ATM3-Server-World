@@ -1,5 +1,5 @@
 <galaxy>
-	<star name="Sol" temp="100" x="0" y="0" size="1.0" numPlanets="0" numGasGiants="0">
+	<star name="Sol" temp="100" x="0" y="0" size="1.0" numPlanets="0" numGasGiants="0" >
 		<planet name="Mars" DIMID="16">
 			<isKnown>false</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
@@ -148,7 +148,7 @@
 			<biomeIds>minecraft:mutated_ice_flats</biomeIds>
 		</planet>
 	</star>
-	<star name="Fandom" temp="10" x="300" y="-200" size="1.0" numPlanets="0" numGasGiants="0">
+	<star name="Fandom" temp="10" x="300" y="-200" size="1.0" numPlanets="0" numGasGiants="0" >
 		<planet name="Transsexual" DIMID="32">
 			<isKnown>false</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
@@ -308,7 +308,7 @@
 			<biomeIds>biomesoplenty:outback,traverse:temperate_rainforest,minecraft:mutated_desert,minecraft:swampland,minecraft:savanna</biomeIds>
 		</planet>
 	</star>
-	<star name="Norse Mythology" temp="170" x="-200" y="80" size="1.0" numPlanets="0" numGasGiants="0">
+	<star name="Norse Mythology" temp="170" x="-200" y="80" size="1.0" numPlanets="0" numGasGiants="0" >
 		<planet name="Asgard" DIMID="34">
 			<isKnown>false</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>

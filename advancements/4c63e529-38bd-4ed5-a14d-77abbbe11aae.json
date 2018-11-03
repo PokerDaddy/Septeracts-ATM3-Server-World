@@ -534,12 +534,6 @@
     },
     "done": true
   },
-  "refinedstorage:speeding_it_up": {
-    "criteria": {
-      "disk_drive_in_inventory": "2018-09-16 22:18:25 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-07-29 23:40:54 -0700"
@@ -582,12 +576,6 @@
     },
     "done": true
   },
-  "refinedstorage:storing_externally": {
-    "criteria": {
-      "disk_drive_in_inventory": "2018-08-18 05:00:28 -0700"
-    },
-    "done": true
-  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2018-08-05 20:33:27 -0700"
@@ -621,12 +609,6 @@
   "enderiomachines:basics/sagmill/a_powder_coating": {
     "criteria": {
       "inv_changed-enderio:item_material": "2018-08-01 19:29:41 -0700"
-    },
-    "done": true
-  },
-  "refinedstorage:exporting": {
-    "criteria": {
-      "disk_drive_in_inventory": "2018-10-27 10:33:09 -0700"
     },
     "done": true
   },
@@ -851,12 +833,6 @@
   "botania:main/root": {
     "criteria": {
       "flower": "2018-08-21 20:42:33 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2018-07-30 22:09:34 -0700"
     },
     "done": true
   },
@@ -1227,12 +1203,6 @@
     },
     "done": true
   },
-  "refinedstorage:interface_to_the_world": {
-    "criteria": {
-      "disk_drive_in_inventory": "2018-10-27 10:33:17 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-07-29 22:37:52 -0700"
@@ -1410,12 +1380,6 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2018-09-16 21:58:40 -0700"
-    },
-    "done": true
-  },
-  "refinedstorage:upgrading": {
-    "criteria": {
-      "disk_drive_in_inventory": "2018-09-16 22:18:25 -0700"
     },
     "done": true
   },
@@ -1693,12 +1657,6 @@
     },
     "done": true
   },
-  "refinedstorage:upgrading_your_grid": {
-    "criteria": {
-      "grid_in_inventory": "2018-09-04 20:56:05 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-30 00:26:58 -0700"
@@ -1708,12 +1666,6 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2018-07-29 23:27:49 -0700"
-    },
-    "done": true
-  },
-  "refinedstorage:soldering": {
-    "criteria": {
-      "solderer_in_inventory": "2018-10-27 10:30:26 -0700"
     },
     "done": true
   },
@@ -1816,12 +1768,6 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-07-30 00:26:58 -0700"
-    },
-    "done": true
-  },
-  "refinedstorage:manipulating_disks": {
-    "criteria": {
-      "storage_disk_in_inventory": "2018-09-16 22:17:18 -0700"
     },
     "done": true
   },
@@ -2248,12 +2194,6 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2018-07-30 20:07:39 -0700"
-    },
-    "done": true
-  },
-  "refinedstorage:importing": {
-    "criteria": {
-      "disk_drive_in_inventory": "2018-10-27 10:32:05 -0700"
     },
     "done": true
   },
